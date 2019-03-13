@@ -1,2 +1,2 @@
 # macos-auto-setup
-mac os setup
+thanks @milhamhidayat
